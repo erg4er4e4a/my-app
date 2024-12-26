@@ -14,8 +14,8 @@ const projectId = '10aacb0b1946e5dadc13b1eaf8e7dfeb'
 // 2. Create a metadata object - optional
 const metadata = {
   name: 'AppKit',
-  description: 'AppKit Example',
-  url: 'https://example.com',
+  description: 'aqua',
+  url: 'https://aqua-techs.com',
   icons: ['https://avatars.githubusercontent.com/u/179229932']
 }
 
